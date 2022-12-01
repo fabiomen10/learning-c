@@ -1,2 +1,2 @@
 # learning-c
-By recomendation, I need learn programming by C first.
+By recommendation, I need to learn to program starting with C.
