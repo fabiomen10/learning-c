@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 
-main()
+int main()
 {
     /* These three lines show you how to use the most popular Escape
     Sequences */
