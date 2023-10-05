@@ -7,7 +7,7 @@ prints it on screen in order to show what was entered */
 
 #include <stdio.h>
 
-main()
+int main()
 {
     // Set up the variables that scanf will fill
 
@@ -28,7 +28,7 @@ main()
     printf("What is your favorite number (integer only)?\n");
     scanf(" %d", &favorite_number);
 
-    printf("\nYour initials are %c.%c. and you are %d years old", firstInitial, lastInitial, age);
+    printf("\nYour initials are %c.%c. and you are %d years old.", firstInitial, lastInitial, age);
     printf("\nYour favorite number is %d.\n\n", favorite_number);
 
     return 0;
